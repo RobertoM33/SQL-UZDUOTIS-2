@@ -1,0 +1,1 @@
+SELECT title,rental_duration, rental_rate FROM film WHERE rental_rate <= 4.99 AND (rental_duration = 5 OR rental_duration = 6);

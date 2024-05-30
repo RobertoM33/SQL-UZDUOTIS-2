@@ -1,0 +1,3 @@
+SELECT *
+FROM rental
+WHERE rental_date BETWEEN '2005-05-24 22:54:33' AND '2025-05-24 23:05:21';

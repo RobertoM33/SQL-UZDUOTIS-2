@@ -1,0 +1,1 @@
+SELECT title,description, Release_year, rating FROM film WHERE rating = 'PG';
